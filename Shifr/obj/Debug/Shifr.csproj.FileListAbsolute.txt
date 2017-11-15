@@ -1,0 +1,6 @@
+C:\Users\Andrey\Desktop\Shifr\Shifr\bin\Debug\Shifr.exe.config
+C:\Users\Andrey\Desktop\Shifr\Shifr\bin\Debug\Shifr.exe
+C:\Users\Andrey\Desktop\Shifr\Shifr\bin\Debug\Shifr.pdb
+C:\Users\Andrey\Desktop\Shifr\Shifr\obj\Debug\Shifr.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Shifr\Shifr\obj\Debug\Shifr.exe
+C:\Users\Andrey\Desktop\Shifr\Shifr\obj\Debug\Shifr.pdb
